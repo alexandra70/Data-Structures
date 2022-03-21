@@ -13,13 +13,14 @@ cu add.
 
 >  **Lab3-->** *TEXT*
 
->  **Lab4-->** *TEXT*
+>  **Lab4-->** *Stack - colectie cu acces restrictionat. Restrictia respecta LIFO. 
+>  Queue - primul elem ntrodus in coada va fi si cel eliminat primul(respecta FIFO)*
 
 >  **Lab5-->** *TEXT*
 
 >  **Lab5-->** *TEXT*
 
->  **Lab6-->** *TEXT*
+>  **Lab6-->** *BST - Arbori binari de cautare(insert, delete, search, create).*
 
 >  **Lab7-->** *TEXT*
 
